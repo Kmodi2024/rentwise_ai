@@ -1,0 +1,95 @@
+request_id,property_id,date,category,priority,status,estimated_cost,actual_cost
+MNT0001,P01,2023-10-12,Plumbing,High,Closed,303,409
+MNT0002,P02,2023-10-12,Electrical,Medium,Open,320,0
+MNT0003,P03,2023-10-12,HVAC,Low,Closed,171,280
+MNT0004,P05,2023-10-12,HVAC,Low,Closed,432,430
+MNT0005,P01,2023-11-12,HVAC,High,Open,674,0
+MNT0006,P02,2023-11-12,Plumbing,High,Open,256,0
+MNT0007,P03,2023-12-12,HVAC,Low,Closed,325,283
+MNT0008,P04,2023-12-12,HVAC,High,Closed,684,745
+MNT0009,P02,2024-01-12,Appliance,Medium,In Progress,318,0
+MNT0010,P03,2024-01-12,Electrical,High,Open,151,0
+MNT0011,P04,2024-01-12,Plumbing,High,Closed,352,444
+MNT0012,P05,2024-01-12,Electrical,Low,In Progress,423,0
+MNT0013,P01,2024-02-12,Electrical,High,Open,548,0
+MNT0014,P04,2024-02-12,Appliance,High,Closed,537,479
+MNT0015,P01,2024-03-12,HVAC,Low,In Progress,125,0
+MNT0016,P03,2024-03-12,Appliance,Medium,Closed,649,596
+MNT0017,P04,2024-03-12,Plumbing,Low,In Progress,690,0
+MNT0018,P05,2024-03-12,Plumbing,High,Closed,407,426
+MNT0019,P01,2024-04-12,Plumbing,Low,In Progress,393,0
+MNT0020,P05,2024-04-12,Appliance,High,Closed,643,735
+MNT0021,P02,2024-05-12,Plumbing,Low,Open,254,0
+MNT0022,P04,2024-05-12,HVAC,Medium,In Progress,324,0
+MNT0023,P01,2024-06-12,Appliance,Medium,In Progress,183,0
+MNT0024,P02,2024-06-12,HVAC,High,Open,120,0
+MNT0025,P03,2024-06-12,Electrical,Low,Open,692,0
+MNT0026,P05,2024-06-12,Electrical,Medium,Open,530,0
+MNT0027,P01,2024-07-12,Appliance,Medium,Closed,374,376
+MNT0028,P02,2024-07-12,Electrical,Low,Open,599,0
+MNT0029,P05,2024-07-12,HVAC,High,Open,321,0
+MNT0030,P02,2024-08-12,Plumbing,Medium,Closed,391,453
+MNT0031,P04,2024-08-12,Appliance,Medium,In Progress,539,0
+MNT0032,P05,2024-08-12,Plumbing,Medium,Open,102,0
+MNT0033,P02,2024-09-12,Electrical,Medium,Closed,682,734
+MNT0034,P05,2024-09-12,Electrical,Low,Closed,207,231
+MNT0035,P01,2024-10-12,Plumbing,Medium,Closed,655,700
+MNT0036,P04,2024-10-12,HVAC,High,Closed,620,594
+MNT0037,P02,2024-12-12,Appliance,Medium,Closed,346,435
+MNT0038,P02,2025-01-12,Appliance,Low,Open,305,0
+MNT0039,P03,2025-01-12,HVAC,High,Closed,506,539
+MNT0040,P04,2025-01-12,Electrical,Medium,Open,339,0
+MNT0041,P05,2025-01-12,Plumbing,Medium,Open,411,0
+MNT0042,P01,2025-02-12,Appliance,Medium,Closed,517,465
+MNT0043,P01,2025-03-12,Plumbing,Medium,Closed,633,690
+MNT0044,P02,2025-03-12,Plumbing,Low,In Progress,251,0
+MNT0045,P04,2025-03-12,Plumbing,Medium,In Progress,537,0
+MNT0046,P01,2025-04-12,HVAC,Low,Open,593,0
+MNT0047,P02,2025-05-12,Appliance,Medium,Open,232,0
+MNT0048,P03,2025-05-12,Plumbing,High,In Progress,275,0
+MNT0049,P04,2025-05-12,Electrical,Low,Open,441,0
+MNT0050,P05,2025-05-12,Electrical,High,Open,277,0
+MNT0051,P01,2025-06-12,Electrical,Low,Open,550,0
+MNT0052,P02,2025-06-12,Electrical,High,Open,192,0
+MNT0053,P03,2025-06-12,Plumbing,High,In Progress,186,0
+MNT0054,P04,2025-07-12,HVAC,High,Open,269,0
+MNT0055,P05,2025-07-12,Appliance,High,Open,476,0
+MNT0056,P01,2025-08-12,Electrical,Medium,Open,592,0
+MNT0057,P03,2025-08-12,Plumbing,Low,Closed,443,418
+MNT0058,P04,2025-08-12,HVAC,High,Open,661,0
+MNT0059,P05,2025-08-12,Appliance,Low,Closed,648,749
+MNT0060,P01,2025-09-12,Plumbing,Low,In Progress,581,0
+MNT0061,P02,2025-09-12,Electrical,Medium,Open,145,0
+MNT0062,P05,2025-09-12,HVAC,Medium,In Progress,609,0
+MNT0063,P01,2025-10-12,Appliance,Medium,Open,554,0
+MNT0064,P03,2025-10-12,HVAC,Medium,Closed,560,595
+MNT0065,P04,2025-10-12,HVAC,Medium,In Progress,630,0
+MNT0066,P05,2025-10-12,Plumbing,High,In Progress,276,0
+MNT0067,P03,2025-11-12,Plumbing,High,In Progress,577,0
+MNT0068,P05,2025-11-12,Plumbing,High,In Progress,301,0
+MNT0069,P02,2025-12-12,Appliance,Medium,Closed,131,231
+MNT0070,P03,2025-12-12,Electrical,Medium,In Progress,233,0
+MNT0071,P05,2025-12-12,Electrical,Low,In Progress,123,0
+MNT0072,P01,2026-01-12,Plumbing,Medium,In Progress,237,0
+MNT0073,P02,2026-01-12,Appliance,High,Closed,386,500
+MNT0074,P04,2026-01-12,Electrical,High,Closed,444,514
+MNT0075,P03,2026-02-12,Electrical,High,Closed,370,433
+MNT0076,P04,2026-02-12,Appliance,Medium,In Progress,591,0
+MNT0077,P05,2026-02-12,Plumbing,Medium,In Progress,180,0
+MNT0078,P01,2026-03-12,HVAC,Low,Closed,338,303
+MNT0079,P03,2026-03-12,HVAC,Medium,Open,506,0
+MNT0080,P04,2026-03-12,Appliance,Medium,Open,616,0
+MNT0081,P05,2026-03-12,Appliance,Medium,In Progress,627,0
+MNT0082,P03,2026-04-12,HVAC,High,Open,183,0
+MNT0083,P04,2026-04-12,HVAC,Medium,In Progress,632,0
+MNT0084,P01,2026-05-12,Plumbing,Medium,In Progress,132,0
+MNT0085,P02,2026-05-12,Plumbing,Low,Closed,652,759
+MNT0086,P03,2026-05-12,HVAC,Medium,Open,571,0
+MNT0087,P03,2026-06-12,HVAC,Medium,In Progress,247,0
+MNT0088,P02,2026-07-12,Electrical,Medium,In Progress,367,0
+MNT0089,P05,2026-07-12,Appliance,High,Open,655,0
+MNT0090,P01,2026-08-12,Appliance,High,In Progress,161,0
+MNT0091,P03,2026-08-12,Electrical,High,In Progress,570,0
+MNT0092,P04,2026-08-12,Appliance,High,Open,109,0
+MNT0093,P01,2026-09-12,HVAC,Low,Closed,507,523
+MNT0094,P03,2026-09-12,Appliance,Medium,In Progress,333,0

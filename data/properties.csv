@@ -1,0 +1,6 @@
+property_id,property_name,units,monthly_rent_per_unit,occupied_units,street_address,city,state,zip_code,country,full_address
+P01,Oak Street,4,1450,4,101 Sample Oak Street,Boston,MA,02108,US,"101 Sample Oak Street, Boston, MA 02108, USA"
+P02,Maple Court,3,1700,2,202 Sample Maple Court,Boston,MA,02116,US,"202 Sample Maple Court, Boston, MA 02116, USA"
+P03,Pine Apartments,5,1200,5,303 Sample Pine Avenue,Boston,MA,02118,US,"303 Sample Pine Avenue, Boston, MA 02118, USA"
+P04,River House,2,1950,2,404 Sample River Road,Boston,MA,02127,US,"404 Sample River Road, Boston, MA 02127, USA"
+P05,Cedar Lane,4,1350,3,505 Sample Cedar Lane,Boston,MA,02130,US,"505 Sample Cedar Lane, Boston, MA 02130, USA"
